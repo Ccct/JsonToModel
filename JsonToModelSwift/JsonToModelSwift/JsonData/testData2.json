@@ -1,0 +1,36 @@
+{
+  "state": "1",
+  "page": "1",
+  "citys": {
+    "cityName": "Beijing",
+    "cityCode": "1",
+    "cityImg": "xxxxxxxxx"
+  },
+  "datas": [
+    {
+      "name": "myName",
+      "age": 10,
+      "city": "Beijing"
+    },
+    {
+      "name": "myName",
+      "age": 10,
+      "city": "Beijing"
+    },
+    {
+      "name": "myName",
+      "age": 10,
+      "city": "Beijing"
+    },
+    {
+      "name": "myName",
+      "age": 10,
+      "city": "Beijing"
+    },
+    {
+      "name": "myName",
+      "age": 10,
+      "city": "Beijing"
+    }
+  ]
+}

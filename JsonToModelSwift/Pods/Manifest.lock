@@ -1,0 +1,20 @@
+PODS:
+  - HandyJSON (5.0.1)
+  - KakaJSON (1.1.2)
+
+DEPENDENCIES:
+  - HandyJSON
+  - KakaJSON
+
+SPEC REPOS:
+  https://github.com/CocoaPods/Specs.git:
+    - HandyJSON
+    - KakaJSON
+
+SPEC CHECKSUMS:
+  HandyJSON: d45b8415c501e3affc59ca9762c1197ff0feb646
+  KakaJSON: cc5ff50a8c1cfbb09413db8496cb709a209e6137
+
+PODFILE CHECKSUM: 675f8a7334aac8a2b19b8302452656ef433c2f88
+
+COCOAPODS: 1.8.4
